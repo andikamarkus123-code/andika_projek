@@ -1,0 +1,123 @@
+name: andika_projek
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/motif_batik.png
+    - assets/images/icon_qris.png
+    - assets/images/icon_shopeepay.png
+    - assets/images/icon_coin.png
+    - assets/images/icon_spaylater.png
+    - assets/images/icon_rp.png
+    - assets/images/100rb_koin.png
+    - assets/images/pay_biru.png
+    - assets/images/cart3.png
+    - assets/images/message1.png
+    - assets/images/pay_dandan.png
+    - assets/images/pay_perma.png
+    - assets/images/menu_spesial.png
+    - assets/images/menu_chatgpt.png
+    - assets/images/menu_pulsa.png
+    - assets/images/menu_food.png
+    - assets/images/voova.png
+    - assets/images/shopee_logo3.png
+    - assets/images/menu_hadiah.png
+    - assets/images/whatsapp.png
+    - assets/images/qr_download.png
+    - assets/images/cart2.png
+    - assets/images/message.png
+    - assets/images/kamera.png
+    - assets/images/search.png
+    - assets/images/garnier1.png
+    - assets/images/garnier2.png
+    - assets/images/garnier3.png
+    - assets/images/logo_maybelline.png
+    - assets/images/maybelline4.png
+    - assets/images/maybelline1.png
+    - assets/images/maybelline3.png
+    - assets/images/soc_fb.png
+    - assets/images/soc_ig.png
+    - assets/images/soc_tw.png
+    - assets/images/soc_in.png
+    - assets/images/logo_fonterra.png
+    - assets/images/anlene1.png
+    - assets/images/anlene2.png
+    - assets/images/boneeto.png
+    - assets/images/instagram2.png
+    - assets/images/twitter2.png
+    - assets/images/soc_kampus.png
+    - assets/images/logo_colgate.png
+    - assets/images/colgate1.png
+    - assets/images/colgate2.png
+    - assets/images/colgate3.png
+    - assets/images/banner_diskon.png
+    - assets/images/promo_grid.png
+    - assets/images/kemeja_putih.png
+    - assets/images/kaos_kaki.png
+    - assets/images/voucher_icon.png
+    - assets/images/mykonos.png
+    - assets/images/murah_mantap.png
+    - assets/images/kemeja_hitam.png
+    - assets/images/hitam.png
+    - assets/images/headset.png
+    - assets/images/kemeja_ijo.png
+    - assets/images/sabun.png
+    - assets/images/sabun_men.png
+    - assets/images/maybelline.png
+    - assets/images/maybelline2.png
+    - assets/images/micellar.png
+    - assets/images/3.png
+    - assets/images/garnier_logo.png
+    - assets/images/fonterra_logo.png
+    - assets/images/shopee_logo.png
+    - assets/images/facebook.png
+    - assets/images/facebook1.png
+    - assets/images/google.png
+    - assets/images/best_deals.png
+    - assets/images/instagram.png
+    - assets/images/shopee_logo1.png
+    - assets/images/shopee_logo2.png
+    - assets/images/qr_login.png
+    - assets/images/cart.png
+    - assets/images/share_icon.png
+    - assets/images/line.png
+    - assets/images/mie_gacoan.png
+    - assets/images/arrow_up.png
+    - assets/images/btn_appstore.png
+    - assets/images/btn_playstore.png
+    - assets/images/btn_appgallery.png
+    - assets/images/pay_alfamart.png
+    - assets/images/pay_alfamidi.png
+    - assets/images/pay_bca.png
+    - assets/images/pay_bni.png
+    - assets/images/pay_bri.png
+    - assets/images/pay_bsi.png
+    - assets/images/pay_cimb.png
+    - assets/images/pay_mandiri.png
+    - assets/images/pay_indomaret.png
+    - assets/images/pay_jcb.png
+    - assets/images/pay_mastercard.png
+    - assets/images/pay_spay.png
+    - assets/images/pay_visa.png
+    - assets/images/sec_tuv.png
+    - assets/icons/home.png
+    - assets/icons/live.png
+    - assets/icons/notification.png
+    - assets/icons/profile.png
